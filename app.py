@@ -1,11 +1,11 @@
-#-----------------------------------------------------------------------------------------
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License. See LICENSE in the project root for license information.
-#-----------------------------------------------------------------------------------------
-
+# Extremely simple flask application, will display 'Hello World!' on the screen when you run it
+# Access it by running it, then going to whatever port its running on (It'll say which port it's running on).
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/")
-def hello():
-    return app.send_static_file("index.html")
+@app.route('/')
+def hello_world():
+    return 'Hello World from codespaces!!'
+
+if __name__ == '__main__':
+    app.run()
