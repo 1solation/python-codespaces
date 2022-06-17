@@ -1,5 +1,5 @@
 To run the app:
-type the following into the terminal `python app.py` and open it on the browser:port it specifies.
+type the following into the terminal `python app.py` and open it on the url:port it specifies.
 
 # Try Out Development Containers: Python
 
