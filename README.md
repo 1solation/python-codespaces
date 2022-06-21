@@ -2,6 +2,11 @@
 
 Use this template to start a python project within a development container.
 
+## Features:
+
+- Bundled with `Python 3.9-bullseye` (`-bullseye` variants on local on arm64/Apple Silicon)
+- `Node LTS`
+
 # Try Out Development Containers: Python
 
 [![Open in Remote - Containers](https://img.shields.io/static/v1?label=Remote%20-%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-python)
