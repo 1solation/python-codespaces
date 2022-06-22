@@ -1,6 +1,6 @@
 # Python development container base template
 
-Use this template to start a python project within a development container.
+Use this lightweight template to start a python project within a development container. Viewing in GitHub, select `Use this template` if creating a new repository.
 
 ## Features:
 
