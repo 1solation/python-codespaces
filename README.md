@@ -4,7 +4,7 @@ Use this template to start a python project within a development container.
 
 ## Features:
 
-- Bundled
+Bundled with:
 - `Python 3.9-bullseye` (`-bullseye` variants on local on arm64/Apple Silicon)
 - `Node LTS`
 
