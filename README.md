@@ -4,7 +4,7 @@ Use this lightweight template to start a python project within a development con
 
 To run this in the cloud (on a throw-away virtual machine provided by GitHub) you can run it in GitHub Codespaces in 1 click. Then you'll be up and running with VS Code in the browser.
 
-To run this locally you will need docker & VS Code. Open the repo in VS Code & a pop up will appear to ask you if you want to reopen in a dev container & it will spin up the container for you automatically (so no need to worry about setting docker up for each person). See below for more in-depth Development Containers documentation.
+To run this locally you will need Docker & VS Code. Open the repo in VS Code & a pop up will appear to ask you if you want to reopen in a dev container & it will spin up the container for you automatically (so no need to worry about setting docker containers up for each person). See below for more in-depth Development Containers documentation.
 
 ## Features:
 
