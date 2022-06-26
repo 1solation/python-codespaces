@@ -1,6 +1,7 @@
 # Python development container base template
 
 Prerequisites:
+
 - Docker installed locally
 - VS Code instaleld locally
 
