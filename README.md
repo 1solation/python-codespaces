@@ -1,5 +1,9 @@
 # Python development container base template
 
+Prerequisites:
+- Docker installed locally
+- VS Code instaleld locally
+
 Use this lightweight template to start a python project within a development container. Viewing in GitHub, select `Use this template` if creating a new repository.
 
 To run this in the cloud (on a throw-away virtual machine provided by GitHub) you can run it in GitHub Codespaces in 1 click. Then you'll be up and running with VS Code in the browser.
